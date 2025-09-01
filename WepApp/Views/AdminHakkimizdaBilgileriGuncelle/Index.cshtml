@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutWebAdmin.cshtml";
+}
+<section class="wrapper">
+    <!-- page start-->
+    <div class="row">
+        <form class="form-horizontal" action="@Url.Action("Kaydet","AdminHakkimizdaBilgileriGuncelle")" method="post">
+            <div class="col-md-9">
+                <section class="panel">
+                    <header class="panel-heading">
+                        HAKKIMIZDA YAZISI
+                    </header>
+                    <div class="panel-body">
+                        <div class="form">
+
+
+                            <div class="form-group">
+                                <label class="col-sm-2 control-label col-sm-2">BAŞLIK</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" value="@ViewBag.Hakkimizda.Baslik" name="Baslik" style="color:#000" />
+                                </div>
+                                <br />
+                                <br />
+                                <label class="col-sm-2 control-label col-sm-2">HAKKIMIZDA YAZISI</label>
+                                <div class="col-sm-10">
+                                    <input type="hidden" name="Id" value="@ViewBag.Hakkimizda.Id" />
+                                    <textarea class="form-control ckeditor" name="Metin" style="color:#000" rows="24">@ViewBag.Hakkimizda.Metin</textarea>
+                                </div>
+                            </div>
+                            <div class="panel-body text-right">
+                                <a href="@Url.Action("Index","AdminAnaSayfa")" class="btn btn-danger"><i class="icon-cancel"></i> İptal</a>
+                                <button type="submit" class="btn btn-info "><i class="icon-save"></i> Kaydet</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </section>
+
+            </div>
+        </form>
+    </div>
+</section>
+

@@ -1,0 +1,153 @@
+﻿@model WebApp.Models.ServiceDetailViewModel
+@{
+    ViewData["Title"] = "Hizmet Detayları";
+    Layout = "~/Views/Shared/_LayoutWebUI.cshtml";
+}
+
+<main class="main">
+    <!-- Page Title -->
+    <div class="page-title dark-background" style="background-image: url(/WebUITheme/assets/img/page-title-bg.jpg);">
+        <div class="container position-relative">
+            <h1>@Model.Title</h1>
+            <nav class="breadcrumbs">
+                <ol>
+                    <li><a href="/Home">Ana Sayfa</a></li>
+                    <li class="current">Hizmet Detayları</li>
+                </ol>
+            </nav>
+        </div>
+    </div><!-- End Page Title -->
+    <!-- Service Details Section -->
+    <section id="service-details" class="service-details section">
+        <div class="container">
+            <div class="row gy-4">
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="services-list">
+                        <a href="/ServicesDetails?service=boya-badana" class="@(Model.ServiceId == "boya-badana" ? "active" : "")">Boya Badana</a>
+                        <a href="/ServicesDetails?service=tadilat-tamirat" class="@(Model.ServiceId == "tadilat-tamirat" ? "active" : "")">Tadilat Tamirat</a>
+                        <a href="/ServicesDetails?service=fayans-doseme" class="@(Model.ServiceId == "fayans-doseme" ? "active" : "")">Fayans Döşeme</a>
+                        <a href="/ServicesDetails?service=alci-siva-kartonpiyer" class="@(Model.ServiceId == "alci-siva-kartonpiyer" ? "active" : "")">Alçı Sıva Kartonpiyer</a>
+                        <a href="/ServicesDetails?service=mutfak-tezgahi" class="@(Model.ServiceId == "mutfak-tezgahi" ? "active" : "")">Mutfak Tezgahı</a>
+                        <a href="/ServicesDetails?service=cevre-duzenleme-kilit-parke" class="@(Model.ServiceId == "cevre-duzenleme-kilit-parke" ? "active" : "")">Çevre Düzenleme Kilit Parke</a>
+                        <a href="/ServicesDetails?service=dis-cephe-mantolama" class="@(Model.ServiceId == "dis-cephe-mantolama" ? "active" : "")">Dış Cephe Mantolama</a>
+                    </div>
+                    <h4>Hizmetlerimiz</h4>
+                    <p>Her bir hizmetimiz, müşteri memnuniyetini ve kaliteyi ön planda tutarak tasarlanmıştır. Size özel çözümler için bizimle iletişime geçin.</p>
+                    <div class="contact-info">
+                        <h5>İletişime Geçin</h5>
+                        <p><i class="bi bi-telephone"></i> <a href="tel:+905055250927">+90 505 525 09 27</a></p>
+                        <p><i class="bi bi-whatsapp"></i> <a href="https://wa.me/+905055250927">WhatsApp</a></p>
+                    </div>
+                </div>
+                <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
+                    <img src="@Model.ImageUrl" alt="@Model.Title" class="img-fluid services-img rounded shadow">
+                    <h3>@Model.Title</h3>
+                    <p class="lead">@Model.Description</p>
+                    <ul class="list-unstyled">
+                        @foreach (var feature in Model.Features)
+                        {
+                            <li class="mb-2"><i class="bi bi-check-circle-fill"></i> <span>@feature</span></li>
+                        }
+                    </ul>
+                    <p>@Model.AdditionalInfo</p>
+                    <a href="/Contact" class="btn btn-warning mt-3">Teklif Al</a>
+                </div>
+            </div>
+        </div>
+    </section><!-- End Service Details Section -->
+    <!-- Quick Call Button -->
+    <div class="quick-call-button" id="quick-call">
+        <div class="call-now-button">
+            <p class="call-text">HEMEN ARAYIN</p>
+            <a href="tel:+905055250927" id="quickcall" title="Hemen Ara">
+                <div class="quick-alo-ph-circle active"></div>
+                <div class="quick-alo-ph-circle-fill active"></div>
+                <div class="quick-alo-ph-img-circle shake"></div>
+            </a>
+        </div>
+    </div>
+
+<style>
+    .quick-call-button {
+        left: 20px !important;
+        background: #1a1919 !important;
+        position: fixed !important;
+        z-index: 1000 !important;
+        border-radius: 50px;
+        padding: 10px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    .call-now-button .call-text {
+        color: #fff !important;
+        font-weight: bold;
+        margin-right: 10px;
+    }
+
+    .call-now-button a .quick-alo-ph-img-circle,
+    .call-now-button a .quick-alo-ph-circle-fill {
+        background-color: #28a745 !important;
+    }
+
+    .services-list a {
+        display: block;
+        padding: 10px 15px;
+        margin-bottom: 5px;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+
+        .services-list a.active, .services-list a:hover {
+                background-color: #FEB900;
+            color: #fff;
+        }
+
+    .contact-info {
+        margin-top: 20px;
+        padding: 15px;
+        background: #f8f9fa;
+        border-radius: 5px;
+    }
+
+        .contact-info a {
+                color: #FEB900;
+            text-decoration: none;
+        }
+
+            .contact-info a:hover {
+                text-decoration: underline;
+            }
+    media (max-width: 860px) {
+        .quick-call-button
+
+    {
+        display: block !important;
+        top: 80% !important;
+    }
+
+    }
+    media (min-width: 1024px), (max-width: 1024px) and (min-width: 680px) {
+        .call-now-button .call-text
+
+    {
+        display: inline !important;
+    }
+
+    .quick-call-button {
+        top: 50% !important;
+    }
+
+    }
+    media (max-width: 680px) {
+        .call-now-button .call-text
+
+    {
+        display: none !important;
+    }
+
+    .quick-call-button {
+        top: 85% !important;
+    }
+
+    }
+</style>

@@ -1,0 +1,263 @@
+﻿@using WepApp.Models
+
+@{
+    ViewData["Title"] = "Ana Sayfa";
+    Layout = "~/Views/Shared/_LayoutWebUI.cshtml";
+}
+
+<!-- Hero Section -->
+<section id="hero" class="hero section dark-background">
+
+    <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+
+        @{
+            var bannerlar = (List<WebApp.Models.AnaSayfaBannerResim>)ViewBag.AnaSayfaBanner;
+            var insaatBannerlar = bannerlar.Where(b => b.KategoriId == 1).ToList(); // İnşaat (kategoriId=1)
+            var bahcepinarBannerlar = bannerlar.Where(b => b.KategoriId == 0).ToList(); // Bahçepınar Su (kategoriId=0)
+            var maxPairs = Math.Min(insaatBannerlar.Count, bahcepinarBannerlar.Count);
+        }
+
+        @for (int i = 0; i < maxPairs; i++)
+        {
+            <div class="carousel-item @(i == 0 ? "active" : "")">
+                <div class="d-flex w-100 h-100">
+                    <!-- Left Side: İnşaat Banner -->
+                    <div class="w-50 h-100 position-relative">
+                        <img src="@insaatBannerlar[i].FotografBuyuk" class="w-100 h-100" style="object-fit: cover;" alt="İnşaat">
+                       
+                    </div>
+                    <!-- Right Side: Bahçepınar Su Banner -->
+                    <div class="w-50 h-100 position-relative">
+                        <img src="@bahcepinarBannerlar[i].FotografBuyuk" class="w-100 h-100" style="object-fit: cover;" alt="Bahçepınar Su">
+                       
+                    </div>
+                </div>
+            </div>
+        }
+
+        @if (maxPairs > 0)
+        {
+            <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+            </a>
+            <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
+                <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+            </a>
+            <ol class="carousel-indicators">
+                @for (int i = 0; i < maxPairs; i++)
+                {
+                    <li data-bs-target="#hero-carousel" data-bs-slide-to="@i" class="@(i == 0 ? "active" : "")"></li>
+                }
+            </ol>
+        }
+
+    </div>
+
+</section><!-- /Hero Section -->
+<!-- About Section -->
+<section id="about" class="about section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Hakkımızda</h2>
+        <p>BİZ KİMİZ?</p>
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+                <p>
+                    <div class="tab-pane fade show active" id="about-2-tab1">
+                        @Html.Raw((ViewBag.HakkimizdaBilgileriList.Metin as string)?.Replace("<body", "<div").Replace("</body>", "</div>"))
+                    </div><!-- End Tab 1 Content -->
+                </p>
+           
+            </div>
+
+       
+
+        </div>
+
+    </div>
+
+</section><!-- /About Section -->
+
+<!-- Clients Section -->
+<section id="core-values" class="core-values section light-background">
+
+    <div class="container" data-aos="fade-up">
+
+        <h2 class="section-title mb-5 text-center">Temel Değerlerimiz</h2>
+
+        <div class="row gy-4">
+
+            <div class="col-xl-4 col-md-6 value-item">
+                <div class="card text-center p-4 shadow-sm">
+                    <i class="bi bi-shield-check text-primary mb-3" style="font-size: 2.5rem;"></i>
+                    <h5 class="fw-bold">Güvenilirlik</h5>
+                    <p>Müşterilerimize verdiğimiz sözleri tutarak, her projede güven inşa ediyoruz.</p>
+                </div>
+            </div><!-- End Value Item -->
+
+            <div class="col-xl-4 col-md-6 value-item">
+                <div class="card text-center p-4 shadow-sm">
+                    <i class="bi bi-tree-fill text-primary mb-3" style="font-size: 2.5rem;"></i>
+                    <h5 class="fw-bold">Sürdürülebilirlik</h5>
+                    <p>Çevre dostu uygulamalarla, gelecek nesillere yaşanabilir bir dünya bırakmayı hedefliyoruz.</p>
+                </div>
+            </div><!-- End Value Item -->
+
+            <div class="col-xl-4 col-md-6 value-item">
+                <div class="card text-center p-4 shadow-sm">
+                    <i class="bi bi-star-fill text-primary mb-3" style="font-size: 2.5rem;"></i>
+                    <h5 class="fw-bold">Kalite</h5>
+                    <p>Her projede en yüksek standartları benimseyerek, dayanıklı ve estetik yapılar sunuyoruz.</p>
+                </div>
+            </div><!-- End Value Item -->
+
+            <div class="col-xl-4 col-md-6 value-item">
+                <div class="card text-center p-4 shadow-sm">
+                    <i class="bi bi-lightbulb-fill text-primary mb-3" style="font-size: 2.5rem;"></i>
+                    <h5 class="fw-bold">Yenilikçilik</h5>
+                    <p>Modern teknolojileri ve yaratıcı çözümleri projelerimize entegre ederek sektöre öncülük ediyoruz.</p>
+                </div>
+            </div><!-- End Value Item -->
+
+            <div class="col-xl-4 col-md-6 value-item">
+                <div class="card text-center p-4 shadow-sm">
+                    <i class="bi bi-people-fill text-primary mb-3" style="font-size: 2.5rem;"></i>
+                    <h5 class="fw-bold">Müşteri Odaklılık</h5>
+                    <p>Müşterilerimizin ihtiyaçlarını dinliyor, onların hayallerini gerçeğe dönüştürüyoruz.</p>
+                </div>
+            </div><!-- End Value Item -->
+
+            <div class="col-xl-4 col-md-6 value-item">
+                <div class="card text-center p-4 shadow-sm">
+                    <i class="bi bi-gear-fill text-primary mb-3" style="font-size: 2.5rem;"></i>
+                    <h5 class="fw-bold">Profesyonellik</h5>
+                    <p>Deneyimli ekibimizle, her aşamada titiz ve disiplinli bir çalışma anlayışı sergiliyoruz.</p>
+                </div>
+            </div><!-- End Value Item -->
+
+        </div>
+
+    </div>
+
+</section><!-- /Core Values Section -->
+<!-- Services Section -->
+<section id="hizmetler" class="services section">
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
+                <div class="service-item d-flex position-relative h-100">
+                    <i class="bi bi-briefcase icon flex-shrink-0"></i>
+                    <div>
+                        <h4 class="title"><a href="#" class="stretched-link">Proje Yönetimi</a></h4>
+                        <p class="description">Yüksek kaliteli proje yönetimi hizmetlerimizle, inşaat projelerinizi zamanında ve bütçe dahilinde tamamlıyoruz.</p>
+                    </div>
+                </div>
+            </div><!-- End Service Item -->
+
+            <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
+                <div class="service-item d-flex position-relative h-100">
+                    <i class="bi bi-card-checklist icon flex-shrink-0"></i>
+                    <div>
+                        <h4 class="title"><a href="#" class="stretched-link">Danışmanlık Hizmetleri</a></h4>
+                        <p class="description">Uzman ekibimizle, inşaat projeleriniz için teknik ve stratejik danışmanlık sağlıyoruz.</p>
+                    </div>
+                </div>
+            </div><!-- End Service Item -->
+
+            <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
+                <div class="service-item d-flex position-relative h-100">
+                    <i class="bi bi-bar-chart icon flex-shrink-0"></i>
+                    <div>
+                        <h4 class="title"><a href="#" class="stretched-link">Maliyet Analizi</a></h4>
+                        <p class="description">Proje maliyetlerinizi optimize etmek için detaylı analiz ve raporlama hizmetleri sunuyoruz.</p>
+                    </div>
+                </div>
+            </div><!-- End Service Item -->
+
+            <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
+                <div class="service-item d-flex position-relative h-100">
+                    <i class="bi bi-binoculars icon flex-shrink-0"></i>
+                    <div>
+                        <h4 class="title"><a href="#" class="stretched-link">Keşif ve Planlama</a></h4>
+                        <p class="description">Projenizin her aşamasında doğru planlama ve saha keşfiyle en iyi sonuçları elde ediyoruz.</p>
+                    </div>
+                </div>
+            </div><!-- End Service Item -->
+
+            <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
+                <div class="service-item d-flex position-relative h-100">
+                    <i class="bi bi-brightness-high icon flex-shrink-0"></i>
+                    <div>
+                        <h4 class="title"><a href="#" class="stretched-link">Sürdürülebilir İnşaat</a></h4>
+                        <p class="description">Çevre dostu malzemeler ve yenilikçi yöntemlerle sürdürülebilir inşaat çözümleri sunuyoruz.</p>
+                    </div>
+                </div>
+            </div><!-- End Service Item -->
+
+            <div class="col-md-6" data-aos="fade-up" data-aos-delay="600">
+                <div class="service-item d-flex position-relative h-100">
+                    <i class="bi bi-calendar4-week icon flex-shrink-0"></i>
+                    <div>
+                        <h4 class="title"><a href="#" class="stretched-link">Zaman Planlaması</a></h4>
+                        <p class="description">Projenizin her aşamasını titizlikle planlayarak, teslim tarihlerine sadık kalıyoruz.</p>
+                    </div>
+                </div>
+            </div><!-- End Service Item -->
+
+        </div>
+
+    </div>
+
+</section><!-- /Hizmetler Section -->
+<!-- Portfolio Section -->
+<section id="portfolio" class="portfolio section">
+
+    <div class="container">
+
+        <h2 class="section-title" data-aos="fade-up">Tamamlanan Projelerimiz</h2>
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+            <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+                <li data-filter="*" class="filter-active">Tümü</li>
+                @foreach (var kategori in ViewBag.Kategori as List<Kategori>)
+                {
+                    <li data-filter=".filter-@kategori.Adi.ToLower().Replace(" ", "-")">@kategori.Adi</li>
+                }
+            </ul><!-- End Portfolio Filters -->
+
+            <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+                @foreach (var galeri in ViewBag.GaleriFotograflar as List<WebApp.Models.GaleriFotograf>)
+                {
+                    var kategoriAdi = galeri.Kategori?.Adi.ToLower().Replace(" ", "-") ?? "unknown";
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-@kategoriAdi">
+                        <div class="portfolio-img-container">
+                            <img src="@(galeri.FotografBuyuk ?? "/WebUITheme/assets/img/masonry-portfolio/masonry-portfolio-1.jpg")" class="img-fluid" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>@galeri.Kategori.Adi</h4>
+                            <p>@galeri.Kategori.Adi</p>
+                            <a href="@(galeri.FotografBuyuk ?? "/WebUITheme/assets/img/masonry-portfolio/masonry-portfolio-1.jpg")" title="@galeri.Kategori.Adi" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+@*                             <a href="/ProjectDetails/@galeri.Id" title="Daha Fazla Detay" class="details-link"><i class="bi bi-link-45deg"></i></a>
+ *@                        </div>
+                    </div>
+                    <!-- End Portfolio Item -->
+                }
+
+            </div><!-- End Portfolio Container -->
+
+        </div>
+
+    </div>
+
+</section><!-- /Portfolio Section -->

@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutWebAdmin.cshtml";
+}
+<style>
+    <style >
+    input[type="text"], textarea {
+        width: 100%; /* Genişliği tam satıra ayarla */
+        max-width: 600px; /* Maksimum genişlik */
+        padding: 10px; /* İç boşluk */
+        font-size: 16px; /* Yazı boyutu */
+    }
+
+    .fileupload-preview.thumbnail {
+        width: 300px; /* Genişliği ayarla */
+        height: 150px; /* Yüksekliği ayarla */
+    }
+
+    .form-group label {
+        font-size: 14px; /* Etiket yazı boyutunu ayarla */
+        margin-bottom: 5px; /* Etiket ve input arası boşluk */
+        display: block; /* Blok görünüm */
+    }
+
+    button[type="submit"] {
+        padding: 10px 20px; /* Buton iç boşlukları */
+        font-size: 16px; /* Yazı boyutu */
+    }
+</style>
+
+    @using (Html.BeginForm("Kaydet", "AdminAnaSayfaBannerResimGuncelle", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+    <section class="wrapper">
+        <div class="row">
+            <div class="col-lg-6">
+                <section class="panel">
+
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="form-group last">
+                                <label>Başlık</label>
+                                <input type="text" name="Baslik" value="@ViewBag.AnaSayfaBannerResim.Baslik" class="form-control" />
+                                <input type="hidden" name="Id" value="@ViewBag.AnaSayfaBannerResim.Id" class="form-control" />
+                                <label>Metin</label>
+                                <textarea class="form-control ckeditor" name="Metin" style="color:#000" rows="24">@ViewBag.AnaSayfaBannerResim.Metin</textarea>
+                                <br />
+                        
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+
+                            <button type="submit" class="btn btn-info">Kaydet</button>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+        </div>
+    </section>
+    }
+

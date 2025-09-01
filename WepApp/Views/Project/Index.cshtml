@@ -1,0 +1,66 @@
+﻿@using WepApp.Models
+@{
+    ViewData["Title"] = "Projelerimiz";
+    Layout = "~/Views/Shared/_LayoutWebUI.cshtml";
+}
+
+<main class="main">
+
+    <!-- Page Title -->
+    <div class="page-title light-background">
+        <div class="container d-lg-flex justify-content-between align-items-center">
+            <h1 class="mb-2 mb-lg-0">Projelerimiz</h1>
+            <nav class="breadcrumbs">
+                <ol>
+                    <li><a href="/Home">Ana Sayfa</a></li>
+                    <li class="current">Projelerimiz</li>
+                </ol>
+            </nav>
+        </div>
+    </div><!-- End Page Title -->
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio section">
+
+        <div class="container">
+
+            <h2 class="section-title" data-aos="fade-up">Tamamlanan Projelerimiz</h2>
+
+            <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+                <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+                    <li data-filter="*" class="filter-active">Tümü</li>
+                    @foreach (var kategori in ViewBag.Kategori as List<Kategori>)
+                    {
+                        <li data-filter=".filter-@kategori.Adi.ToLower().Replace(" ", "-")">@kategori.Adi</li>
+                    }
+                </ul><!-- End Portfolio Filters -->
+
+                <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+                    @foreach (var galeri in ViewBag.GaleriFotograflar as List<WebApp.Models.GaleriFotograf>)
+                    {
+                        var kategoriAdi = galeri.Kategori?.Adi.ToLower().Replace(" ", "-") ?? "unknown";
+                        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-@kategoriAdi">
+                            <div class="portfolio-img-container">
+                                <img src="@(galeri.FotografBuyuk ?? "/WebUITheme/assets/img/masonry-portfolio/masonry-portfolio-1.jpg")" class="img-fluid" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                            </div>
+                            <div class="portfolio-info">
+                                <h4>@galeri.Kategori.Adi</h4>
+                                <p>@galeri.Kategori.Adi</p>
+                                <a href="@(galeri.FotografBuyuk ?? "/WebUITheme/assets/img/masonry-portfolio/masonry-portfolio-1.jpg")" title="@galeri.Kategori.Adi" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+@*                                 <a href="/ProjectDetails/@galeri.Id" title="Daha Fazla Detay" class="details-link"><i class="bi bi-link-45deg"></i></a>
+ *@                            </div>
+                        </div>
+                        <!-- End Portfolio Item -->
+                    }
+
+                </div><!-- End Portfolio Container -->
+
+            </div>
+
+        </div>
+
+    </section><!-- /Portfolio Section -->
+
+</main>

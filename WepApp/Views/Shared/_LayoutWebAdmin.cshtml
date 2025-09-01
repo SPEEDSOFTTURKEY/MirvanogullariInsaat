@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Mosaddek">
+    <meta name="keyword" content="FlatLab, Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
+    <link rel="shortcut icon" href="img/favicon.png">
+    <title>Yönetim</title>
+    <link href="/WebAdminTheme/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/WebAdminTheme/css/bootstrap-reset.css" rel="stylesheet">
+    <link href="/WebAdminTheme/assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="/WebUITheme/css/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/WebAdminTheme/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css" rel="stylesheet" type="text/css" media="screen" />
+    <link rel="/WebAdminTheme/stylesheet" href="css/owl.carousel.css" type="text/css">
+    <link href="/webadmintheme/assets/fullcalendar/fullcalendar/bootstrap-fullcalendar.css" rel="stylesheet" />
+    <link href="/WebAdminTheme/css/style.css" rel="stylesheet">
+    <link href="/WebAdminTheme/css/style-responsive.css" rel="stylesheet" />
+    <link href="/WebAdminTheme/assets/advanced-datatable/media/css/demo_page.css" rel="stylesheet" />
+    <link href="/WebAdminTheme/assets/advanced-datatable/media/css/demo_table.css" rel="stylesheet" />
+    <link href="/WebAdminTheme/css/select2.css" rel="stylesheet" />
+    <link href="/WebAdminTheme/css/jquery-ui.css" rel="stylesheet">
+    <link href="/WebAdminTheme/js/datepicker/date_time_picker.css" rel="stylesheet">
+    <link href="/WebAdminTheme/js/datepicker/css/datepicker.css" rel="stylesheet">
+    <link href="/WebAdminTheme/assets/bootstrap-fileupload/bootstrap-fileupload.css" rel="stylesheet" />
+    @RenderSection("Css", false)
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11122666197"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-11122666197');
+    </script>
+</head>
+<body>
+    <section id="container">
+        <header class="header white-bg">
+            <div class="sidebar-toggle-box">
+                <div data-original-title="Toggle Navigation" data-placement="right" class="icon-reorder tooltips"></div>
+            </div>
+            <a href="@Url.Action("Index","AdminAnaSayfa")" class="logo"><span>YÖNETİM</span></a>
+
+            <div class="top-nav ">
+                <ul class="nav pull-right top-menu">
+       
+                    <li class="dropdown">
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                            @*<img alt="" src="/WebAdminTheme/img/profile-avatar.jpg">*@
+                            <span class="username">Admin</span>
+                            <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu extended logout">
+                            <div class="log-arrow-up"> </div>
+                            <li><a href="@Url.Action("Cikis","AdminAnaSayfa")"><i class="icon-warning"></i> Çıkış</a></li>
+
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <aside>
+            <div id="sidebar" class="nav-collapse">
+                <ul class="sidebar-menu" id="nav-accordion">
+                    <li class="sub-menu">
+                        <a href="javascript:;">
+                            <i class="icon-user"></i>
+                            <span>Banner Bilgileri</span>
+                        </a>
+                        <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminAnaSayfaBannerResim")"><i class="icon-angle-up"></i>Ana Sayfa Banner </a></li>
+
+                        </ul>
+
+                    </li>
+                    <li class="sub-menu">
+               
+                    <li class="sub-menu">
+                        <a href="javascript:;">
+                            <i class="icon-file-text-alt"></i>
+                            <span>Hakkımızda</span>
+                        </a>
+                        <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminHakkimizdaBilgileri")"><i class="icon-angle-up"></i>Hakkımızda Bilgileri</a></li>
+
+                        </ul>
+                        <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminHakkimizdaFotograf")"><i class="icon-angle-up"></i>Hakkımızda Fotoğrafları</a></li>
+
+                        </ul>
+                    </li>
+                 
+          
+                    <li class="sub-menu">
+                        <a href="javascript:;">
+                            <i class="icon-envelope-alt"></i>
+                            <span>İletişim Bilgileri</span>
+                        </a>
+                        <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminIletisimBilgileri")"><i class="icon-angle-up"></i>İletişim Bilgileri</a></li>
+
+                        </ul>
+                   @*      <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminIletisimFotograf")"><i class="icon-angle-up"></i>İletişim Fotoğrafları</a></li>
+
+                        </ul> *@
+
+                    </li>
+                
+                 
+                    <li class="sub-menu">
+                        <a href="javascript:;">
+                            <i class="icon-male"></i>
+                            <span>Kullanıcılar</span>
+                        </a>
+                        <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminKullanicilar")"><i class="icon-angle-up"></i> Kullanıcı Bilgileri</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li class="sub-menu">
+                        <a href="javascript:;">
+                            <i class=" icon-picture"></i>
+                            <span>Galeri</span>
+                        </a>
+                        <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminKategori")"><i class="icon-angle-up"></i>Galeri Kategori Ekle</a></li>
+
+                        </ul>
+                        <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminGaleriFotograf")"><i class="icon-angle-up"></i>Galeri Fotograf</a></li>
+
+                        </ul>
+                     @*    <ul class="sub">
+                            <li><a href="@Url.Action("Index","AdminVideoBilgileri")"><i class="icon-angle-up"></i>Galeri Video</a></li>
+
+                        </ul>  *@
+                    </li>
+
+
+                </ul>
+            </div>
+        </aside>
+        <section id="main-content">
+            @RenderBody()
+        </section>
+    </section>
+
+    <footer class="site-footer">
+        <div class="text-center">
+            @DateTime.Now.Year &copy; Designed By SpeedSoft
+            <a href="#" class="go-top">
+                <i class="icon-angle-up"></i>
+            </a>
+        </div>
+    </footer>
+
+    <script src="/WebAdminTheme/js/jquery.js"></script>
+    <script src="/WebAdminTheme/js/jquery-2.2.4.min.js"></script>
+    <script src="/WebAdminTheme/js/bootstrap.min.js"></script>
+    <script class="include" type="text/javascript" src="/WebAdminTheme/js/jquery.dcjqaccordion.2.7.js"></script>
+    <script src="/WebAdminTheme/js/jquery.scrollTo.min.js"></script>
+    <script src="/WebAdminTheme/js/jquery.nicescroll.js" type="text/javascript"></script>
+    <script src="/WebAdminTheme/js/jquery.sparkline.js" type="text/javascript"></script>
+    <script src="/WebAdminTheme/js/owl.carousel.js"></script>
+    <script src="/WebAdminTheme/js/jquery.customSelect.min.js"></script>
+    <script src="/WebAdminTheme/js/respond.min.js"></script>
+    <script src="/WebAdminTheme/js/common-scripts.js"></script>
+    <script src="/WebAdminTheme/js/count.js"></script>
+    <script type="text/javascript" language="javascript" src="/WebAdminTheme/assets/advanced-datatable/media/js/jquery.dataTables.js"></script>
+    <script src="/WebAdminTheme/js/jQuery-table2excel/src/jquery.table2excel.js"></script>
+    <script src="/WebAdminTheme/js/select2.full.js"></script>
+    <script src="/WebAdminTheme/js/jquery-ui.min.js"></script>
+    <script src="/WebAdminTheme/js/datepicker/js/datepicker.js"></script>
+    <script src="/WebAdminTheme/js/datepicker/js/i18n/datepicker.tr.js"></script>
+    <script src="/WebAdminTheme/js/datepicker/js/bootstrap-timepicker.js"></script>
+    <script src="/WebAdminTheme/assets/bootstrap-inputmask/bootstrap-inputmask.min.js"></script>
+    <script src="/WebAdminTheme/assets/jquery.inputmask/jquery.inputmask.js"></script>
+    <script src="/WebAdminTheme/assets/bootstrap-fileupload/bootstrap-fileupload.js"></script>
+    <script src="/WebAdminTheme/js/jQuery-Plugin-For-Number-Input-Formatting-Mask-Number/dist/jquery.masknumber.js"></script>
+	<script src="/webadmintheme/assets/fullcalendar/fullcalendar/fullcalendar.js"></script>
+    <script src="/webadmintheme/js/external-dragging-calendar.js"></script>
+    <script src="/Webadmintheme/assets/ckeditor/ckeditor.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            $("#owl-demo").owlCarousel({
+                navigation: true,
+                slideSpeed: 300,
+                paginationSpeed: 400,
+                singleItem: true,
+                autoPlay: true
+            });
+            $('.fileupload').fileupload();
+            jQuery.browser = {};
+            (function () {
+                jQuery.browser.msie = false;
+                jQuery.browser.version = 0;
+                if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+                    jQuery.browser.msie = true;
+                    jQuery.browser.version = RegExp.$1;
+                }
+            })();
+            
+
+
+        });
+        $(function () {
+            $('select.styled').customSelect();
+        });
+    </script>
+    @RenderSection("Script", false)
+</body>
+</html>

@@ -1,0 +1,141 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutWebAdmin.cshtml";
+}
+<section class="wrapper">
+    <form class="form-horizontal" action="@Url.Action("Kaydet","AdminIletisimBilgileriGuncelle")" method="post">
+        <div class="row">
+            <div class="col-lg-8">
+                <section class="panel">
+                    <header class="panel-heading">
+                        Firma İletişim Bilgileri
+                    </header>
+                    <div class="panel-body">
+                        <div class="form-inline">
+                            <input type="hidden" value="@ViewBag.IletisimBilgileri.Id" name="Id"/>
+                            <div class="form-group col-md-6">
+                                <label for="exampleInputEmail1">Firma Adı</label>
+                                <input type="text" value="@ViewBag.IletisimBilgileri.Adi" class="form-control" id="Adi" name="Adi" placeholder="Firma Adı" style="color:#000">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="exampleInputEmail1">Adres</label>
+                                <input type="text" class="form-control" id="Adres" value="@ViewBag.IletisimBilgileri.Adres" name="Adres" placeholder="Adres" style="color:#000">
+                            </div>
+                        </div>
+                        <div class="form-inline" style="margin-top:5px">
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail1">Telefon-1</label>
+                                <input type="text" value="@ViewBag.IletisimBilgileri.Telefon1" class="form-control" id="Telefon1" name="Telefon1" placeholder="Telefon1" style="color:#000" data-mask="(999) 999-9999">
+
+                            </div>
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">Telefon-2</label>
+                                <input type="text" value="@ViewBag.IletisimBilgileri.Telefon2" class="form-control" id="Telefon2" name="Telefon2" placeholder="Telefon2" style="color:#000" data-mask="(999) 999-9999">
+
+                            </div>
+                        </div>
+                        <div class="form-inline" style="margin-top:5px">
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">Telefon-3</label>
+                                <input type="text" class="form-control" id="Telefon_3" value="@ViewBag.IletisimBilgileri.Telefon3" name="Telefon3" placeholder="Telefon3" style="color:#000" data-mask="(999) 999-9999">
+
+                            </div>
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">Telefon-4</label>
+                                <input type="text" class="form-control" id="Telefon4" value="@ViewBag.IletisimBilgileri.Telefon4" name="Telefon4" placeholder="Telefon4" style="color:#000" data-mask="(999) 999-9999">
+
+                            </div>
+                        </div>
+                        <div class="form-inline" style="margin-top:5px">
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">EMail-1</label>
+                                <input type="text" class="form-control" id="EMail1" value="@ViewBag.IletisimBilgileri.Email1" name="Email1" placeholder="EMail1" style="color:#000">
+
+                            </div>
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">EMail-2</label>
+                                <input type="text" class="form-control" id="EMail2" name="Email2" placeholder="EMail2" value="@ViewBag.IletisimBilgileri.Email2" style="color:#000">
+
+                            </div>
+                        </div>
+                        <div class="form-inline" style="margin-top:5px">
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label  for="exampleInputEmail2">Faks</label>
+                                <input type="text" class="form-control" id="Faks" name="Faks" placeholder="Faks" style="color:#000" data-mask="(999) 999-9999" value="@ViewBag.IletisimBilgileri.Faks">
+
+                            </div>
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label  for="exampleInputEmail2">Banka</label>
+                                <input type="text" class="form-control" id="BankaAdi" name="BankaAdi" placeholder="BankaAdi" style="color:#000" value="@ViewBag.IletisimBilgileri.BankaAdi">
+
+                            </div>
+
+
+                        </div>
+                        <div class="form-inline" style="margin-top:5px">
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label  for="exampleInputEmail2">IBAN</label>
+                                <input type="text" class="form-control" id="IbanNo" name="IbanNo" placeholder="Iban" style="color:#000" value="@ViewBag.IletisimBilgileri.IbanNo">
+
+                            </div>
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">GoogleMaps</label>
+                                <input type="text" class="form-control" id="GoogleMapsBaglanti" name="GoogleMapsBaglanti" placeholder="GoogleMapsBaglanti" style="color:#000" value="@ViewBag.IletisimBilgileri.GoogleMapsBaglanti">
+
+                            </div>
+
+
+                        </div>
+                        <div class="form-inline" style="margin-top:5px">
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">WhatsApp</label>
+                                <input type="text" class="form-control" id="WhatsApp" name="WhatsApp" placeholder="WhatsApp" style="color:#000" value="@ViewBag.IletisimBilgileri.WhatsApp">
+
+                            </div>
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">Twitter</label>
+                                <input type="text" class="form-control" id="Twitter" name="Twitter" placeholder="Twitter" style="color:#000" value="@ViewBag.IletisimBilgileri.Twitter">
+
+                            </div>
+                        </div>
+                        <div class="form-inline" style="margin-top:5px">
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">Facebook</label>
+                                <input type="text" class="form-control" id="Facebook" name="Facebook" placeholder="Facebook" style="color:#000" value="@ViewBag.IletisimBilgileri.Facebook">
+
+                            </div>
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">Instagram</label>
+                                <input type="text" class="form-control" id="Instagram" name="Instagram" placeholder="Instagram" style="color:#000" value="@ViewBag.IletisimBilgileri.Instagram">
+
+                            </div>
+                        </div>
+                        <div class="form-inline" style="margin-top:5px">
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">Linkedin</label>
+                                <input type="text" class="form-control" id="Linkedin" name="Linkedin" placeholder="Linkedin" style="color:#000" value="@ViewBag.IletisimBilgileri.Linkedin">
+
+                            </div>
+                            <div class="form-group col-md-6" style="margin-top:5px">
+                                <label for="exampleInputEmail2">YouTube</label>
+                                <input type="text" class="form-control" id="YouTube" name="YouTube" placeholder="YouTube" style="color:#000" value="@ViewBag.IletisimBilgileri.YouTube">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                        <div class="form-inline">
+
+                            <div class="form-group col-md-12 text-right">
+                                <button type="submit" class="btn btn-info">Kaydet</button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </div>
+    </form>
+</section>
+
