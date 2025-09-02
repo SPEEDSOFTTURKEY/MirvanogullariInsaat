@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\",
+  "WorkspaceRootPath": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\views\\shared\\_layoutwebui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\views\\shared\\_layoutwebui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\views\\shared\\_layoutwebui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\wepapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\wepapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\models\\iletisimbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\models\\iletisimbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\controllers\\adminanasayfabannerresimeklecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\controllers\\adminanasayfabannerresimeklecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\views\\adminanasayfabannerresimekle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\wepapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\wepapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\controllers\\adminanasayfabannerresimeklecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\controllers\\adminanasayfabannerresimeklecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\views\\adminanasayfabannerresimekle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\views\\adminanasayfabannerresimekle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\views\\adminanasayfabannerresim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\views\\adminanasayfabannerresim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\views\\adminanasayfabannerresim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|c:\\users\\gzmas\\desktop\\projesonhalleri\\mirvanogullari\\mirvanogullari\\wepapp\\controllers\\adminanasayfabannerresimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|d:\\g\u0130thubprojeler\\mirvanogullariinsaat\\wepapp\\controllers\\adminanasayfabannerresimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BA43826-BE8D-4F5D-AEAB-B06F300026D2}|WepApp\\WepApp.csproj|solutionrelative:wepapp\\controllers\\adminanasayfabannerresimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,119 +103,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WepApp",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\WepApp.csproj",
+              "Title": "IletisimBilgileri.cs",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Models\\IletisimBilgileri.cs",
+              "RelativeDocumentMoniker": "WepApp\\Models\\IletisimBilgileri.cs",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Models\\IletisimBilgileri.cs",
+              "RelativeToolTip": "WepApp\\Models\\IletisimBilgileri.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:54:56.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WepApp.csproj",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\WepApp.csproj",
               "RelativeDocumentMoniker": "WepApp\\WepApp.csproj",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\WepApp.csproj",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\WepApp.csproj",
               "RelativeToolTip": "WepApp\\WepApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-01T13:21:41.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T13:21:41.516Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_LayoutWebUI.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\Shared\\_LayoutWebUI.cshtml",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\Shared\\_LayoutWebUI.cshtml",
               "RelativeDocumentMoniker": "WepApp\\Views\\Shared\\_LayoutWebUI.cshtml",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\Shared\\_LayoutWebUI.cshtml",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\Shared\\_LayoutWebUI.cshtml",
               "RelativeToolTip": "WepApp\\Views\\Shared\\_LayoutWebUI.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAJkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-01T12:18:39.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "WepApp\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "WepApp\\Views\\Contact\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T12:17:29.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WepApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WepApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T10:53:55.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WepApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WepApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T10:53:52.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T12:17:29.077Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\AdminAnaSayfaBannerResimEkle\\Index.cshtml",
-              "RelativeDocumentMoniker": "WepApp\\Views\\AdminAnaSayfaBannerResimEkle\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\AdminAnaSayfaBannerResimEkle\\Index.cshtml",
-              "RelativeToolTip": "WepApp\\Views\\AdminAnaSayfaBannerResimEkle\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WepApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WepApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T10:51:36.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T10:53:55.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminAnaSayfaBannerResimEkleController.cs",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Controllers\\AdminAnaSayfaBannerResimEkleController.cs",
-              "RelativeDocumentMoniker": "WepApp\\Controllers\\AdminAnaSayfaBannerResimEkleController.cs",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Controllers\\AdminAnaSayfaBannerResimEkleController.cs",
-              "RelativeToolTip": "WepApp\\Controllers\\AdminAnaSayfaBannerResimEkleController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAIAwwDAAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WepApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WepApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T10:51:34.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T10:53:52.605Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\AdminAnaSayfaBannerResim\\Index.cshtml",
-              "RelativeDocumentMoniker": "WepApp\\Views\\AdminAnaSayfaBannerResim\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Views\\AdminAnaSayfaBannerResim\\Index.cshtml",
-              "RelativeToolTip": "WepApp\\Views\\AdminAnaSayfaBannerResim\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\AdminAnaSayfaBannerResimEkle\\Index.cshtml",
+              "RelativeDocumentMoniker": "WepApp\\Views\\AdminAnaSayfaBannerResimEkle\\Index.cshtml",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\AdminAnaSayfaBannerResimEkle\\Index.cshtml",
+              "RelativeToolTip": "WepApp\\Views\\AdminAnaSayfaBannerResimEkle\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T10:39:42.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T10:51:36.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminAnaSayfaBannerResimEkleController.cs",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Controllers\\AdminAnaSayfaBannerResimEkleController.cs",
+              "RelativeDocumentMoniker": "WepApp\\Controllers\\AdminAnaSayfaBannerResimEkleController.cs",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Controllers\\AdminAnaSayfaBannerResimEkleController.cs",
+              "RelativeToolTip": "WepApp\\Controllers\\AdminAnaSayfaBannerResimEkleController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAwwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:51:34.807Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\AdminAnaSayfaBannerResim\\Index.cshtml",
+              "RelativeDocumentMoniker": "WepApp\\Views\\AdminAnaSayfaBannerResim\\Index.cshtml",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Views\\AdminAnaSayfaBannerResim\\Index.cshtml",
+              "RelativeToolTip": "WepApp\\Views\\AdminAnaSayfaBannerResim\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T10:39:42.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AdminAnaSayfaBannerResimController.cs",
-              "DocumentMoniker": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Controllers\\AdminAnaSayfaBannerResimController.cs",
+              "DocumentMoniker": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Controllers\\AdminAnaSayfaBannerResimController.cs",
               "RelativeDocumentMoniker": "WepApp\\Controllers\\AdminAnaSayfaBannerResimController.cs",
-              "ToolTip": "C:\\Users\\gzmas\\Desktop\\ProjeSonhalleri\\Mirvanogullari\\Mirvanogullari\\WepApp\\Controllers\\AdminAnaSayfaBannerResimController.cs",
+              "ToolTip": "D:\\G\u0130THUBPROJELER\\MirvanogullariInsaat\\WepApp\\Controllers\\AdminAnaSayfaBannerResimController.cs",
               "RelativeToolTip": "WepApp\\Controllers\\AdminAnaSayfaBannerResimController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T10:39:37.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T10:39:37.731Z"
             }
           ]
         }

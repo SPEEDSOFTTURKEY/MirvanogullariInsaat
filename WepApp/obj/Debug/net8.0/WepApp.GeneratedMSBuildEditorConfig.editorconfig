@@ -17,217 +17,217 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WepApp
 build_property.RootNamespace = WepApp
-build_property.ProjectDir = C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\
+build_property.ProjectDir = D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp
+build_property.MSBuildProjectDirectory = D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/About/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaBannerResimEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaBannerResimEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYUJhbm5lclJlc2ltRWtsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaBannerResimGuncelle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaBannerResimGuncelle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYUJhbm5lclJlc2ltR3VuY2VsbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaBannerResim/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaBannerResim/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYUJhbm5lclJlc2ltXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaFotografEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaFotografEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYUZvdG9ncmFmRWtsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaFotograf/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaFotograf/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYUZvdG9ncmFmXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaRakamlariEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaRakamlariEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYVJha2FtbGFyaUVrbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaRakamlariGuncelle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaRakamlariGuncelle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYVJha2FtbGFyaUd1bmNlbGxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaRakamlari/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaRakamlari/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYVJha2FtbGFyaVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaVideoEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaVideoEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYVZpZGVvRWtsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfaVideo/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfaVideo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYVZpZGVvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminAnaSayfa/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminAnaSayfa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbmFTYXlmYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminGaleriFotografEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminGaleriFotografEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5HYWxlcmlGb3RvZ3JhZkVrbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminGaleriFotograf/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminGaleriFotograf/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5HYWxlcmlGb3RvZ3JhZlxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminHakkimizdaBilgileriEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminHakkimizdaBilgileriEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5IYWtraW1pemRhQmlsZ2lsZXJpRWtsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminHakkimizdaBilgileriGuncelle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminHakkimizdaBilgileriGuncelle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5IYWtraW1pemRhQmlsZ2lsZXJpR3VuY2VsbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminHakkimizdaBilgileri/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminHakkimizdaBilgileri/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5IYWtraW1pemRhQmlsZ2lsZXJpXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminHakkimizdaFotografEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminHakkimizdaFotografEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5IYWtraW1pemRhRm90b2dyYWZFa2xlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminHakkimizdaFotograf/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminHakkimizdaFotograf/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5IYWtraW1pemRhRm90b2dyYWZcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminHizmetEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminHizmetEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5IaXptZXRFa2xlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminHizmetGuncelle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminHizmetGuncelle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5IaXptZXRHdW5jZWxsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminHizmet/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminHizmet/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5IaXptZXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminIletisimBilgileriEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminIletisimBilgileriEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5JbGV0aXNpbUJpbGdpbGVyaUVrbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminIletisimBilgileriGuncelle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminIletisimBilgileriGuncelle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5JbGV0aXNpbUJpbGdpbGVyaUd1bmNlbGxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminIletisimBilgileri/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminIletisimBilgileri/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5JbGV0aXNpbUJpbGdpbGVyaVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminIletisimFotografEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminIletisimFotografEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5JbGV0aXNpbUZvdG9ncmFmRWtsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminIletisimFotograf/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminIletisimFotograf/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5JbGV0aXNpbUZvdG9ncmFmXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKategoriEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKategoriEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LYXRlZ29yaUVrbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKategoriGuncelle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKategoriGuncelle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LYXRlZ29yaUd1bmNlbGxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKategori/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKategori/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LYXRlZ29yaVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKullanicilarEke/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKullanicilarEke/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LdWxsYW5pY2lsYXJFa2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKullanicilarGuncelle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKullanicilarGuncelle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LdWxsYW5pY2lsYXJHdW5jZWxsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKullanicilar/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKullanicilar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LdWxsYW5pY2lsYXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKullaniciMesajGuncelle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKullaniciMesajGuncelle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LdWxsYW5pY2lNZXNhakd1bmNlbGxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKullaniciMesaj/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKullaniciMesaj/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LdWxsYW5pY2lNZXNhalxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminKullanici/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminKullanici/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5LdWxsYW5pY2lcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminLogoEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminLogoEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dvRWtsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminLogoEkle/Mesaj/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminLogoEkle/Mesaj/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dvRWtsZVxNZXNhalxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminLogo/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminLogo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminVideoBilgileriEkle/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminVideoBilgileriEkle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWRlb0JpbGdpbGVyaUVrbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/AdminVideoBilgileri/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/AdminVideoBilgileri/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWRlb0JpbGdpbGVyaVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/BahcepinarSu/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/BahcepinarSu/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFoY2VwaW5hclN1XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/Contact/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/Home/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/Login/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/ProjectDetails/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/ProjectDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdERldGFpbHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/Project/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/Project/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/ServicesDetails/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/ServicesDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNEZXRhaWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/Services/Index.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/Services/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/Shared/_LayoutWebAdmin.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/Shared/_LayoutWebAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRXZWJBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gzmas/Desktop/ProjeSonhalleri/Mirvanogullari/Mirvanogullari/WepApp/Views/Shared/_LayoutWebUI.cshtml]
+[D:/GİTHUBPROJELER/MirvanogullariInsaat/WepApp/Views/Shared/_LayoutWebUI.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRXZWJVSS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,5 +1,23 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\0b992b22-3b26-499d-a448-637f0310b1d6.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/AnaSayfa/Buyuk/0b992b22-3b26-499d-a448-637f0310b1d6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8j92fxcj5q</Fingerprint>
+      <Integrity>xK+RrTp43sUSE1yu5Mgzk7S2JxXzw2Aw+ZfOGUv1DEk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\0b992b22-3b26-499d-a448-637f0310b1d6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\16bffaf6-ab5b-4f0b-98d8-520cf8811947.png'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -54,6 +72,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\3f7e4510-dff5-4296-8043-c0006bc1e54b.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\59018123-de0e-44a8-aa1a-bb7e5491f9a3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/AnaSayfa/Buyuk/59018123-de0e-44a8-aa1a-bb7e5491f9a3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c13y43cd3d</Fingerprint>
+      <Integrity>4LMDwqXgJBI9or0udp8gUj/w49WXJYzxf6g9z9ds3Rk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\59018123-de0e-44a8-aa1a-bb7e5491f9a3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\78110190-96b2-4fd5-a7c3-3ed60dd7fe5a.webp'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -90,59 +126,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\79f5c721-868e-4b51-b1cf-e6a7dd3817ec.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\8d4b2406-36e0-4598-b4c6-d2ac8c9ed04a.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\85801632-539b-4be3-89ba-fe860f050842.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/AnaSayfa/Buyuk/8d4b2406-36e0-4598-b4c6-d2ac8c9ed04a.png</RelativePath>
+      <RelativePath>WebAdminTheme/AnaSayfa/Buyuk/85801632-539b-4be3-89ba-fe860f050842.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8l2l01d2uo</Fingerprint>
-      <Integrity>pAuYbq5OZzP+Bx51MEfHP6ERB7ijSOoQ/CFBnicL+Ng=</Integrity>
+      <Fingerprint>c44ldgngtz</Fingerprint>
+      <Integrity>HOXN8OplitUl0dJ9BRY6TIkdr2R4j1ke7tpHdyN566Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\8d4b2406-36e0-4598-b4c6-d2ac8c9ed04a.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\c36419eb-edf8-48ec-8510-f82254b766b9.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/AnaSayfa/Buyuk/c36419eb-edf8-48ec-8510-f82254b766b9.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s8el4gthvg</Fingerprint>
-      <Integrity>pPB5mIoqjtilbzAsvAeZfLFvIAXgXQbywsYmKFciV2A=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\c36419eb-edf8-48ec-8510-f82254b766b9.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\c6692f2a-7af8-43f0-b698-2cddaffa762d.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/AnaSayfa/Buyuk/c6692f2a-7af8-43f0-b698-2cddaffa762d.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>p89pslim6n</Fingerprint>
-      <Integrity>91SGKKicyDzGB49ImGn9p2TqxwAk1PIVQ8+Z77EC06w=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\c6692f2a-7af8-43f0-b698-2cddaffa762d.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\85801632-539b-4be3-89ba-fe860f050842.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\f716e435-6e92-4eba-a296-22801177da0f.jpg'))">
       <SourceType>Package</SourceType>
@@ -161,6 +161,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Buyuk\f716e435-6e92-4eba-a296-22801177da0f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\0b992b22-3b26-499d-a448-637f0310b1d6.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/AnaSayfa/Kucuk/0b992b22-3b26-499d-a448-637f0310b1d6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qwdpphi9hx</Fingerprint>
+      <Integrity>VvBjrZDaSJOVV9mhq0nqy/5v6/ciPdPZrNpiMpk5WUg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\0b992b22-3b26-499d-a448-637f0310b1d6.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\16bffaf6-ab5b-4f0b-98d8-520cf8811947.png'))">
       <SourceType>Package</SourceType>
@@ -252,6 +270,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\3f7e4510-dff5-4296-8043-c0006bc1e54b.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\59018123-de0e-44a8-aa1a-bb7e5491f9a3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/AnaSayfa/Kucuk/59018123-de0e-44a8-aa1a-bb7e5491f9a3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m7xx5azny0</Fingerprint>
+      <Integrity>YqN780sku3h1wPUHNB4qpfLgki0DTMDltNq7oVM7x3Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\59018123-de0e-44a8-aa1a-bb7e5491f9a3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\5a68e217-1ef0-4866-912f-db9d71134f72.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -288,23 +324,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\79f5c721-868e-4b51-b1cf-e6a7dd3817ec.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\8d4b2406-36e0-4598-b4c6-d2ac8c9ed04a.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\85801632-539b-4be3-89ba-fe860f050842.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/AnaSayfa/Kucuk/8d4b2406-36e0-4598-b4c6-d2ac8c9ed04a.png</RelativePath>
+      <RelativePath>WebAdminTheme/AnaSayfa/Kucuk/85801632-539b-4be3-89ba-fe860f050842.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f02fwskvuu</Fingerprint>
-      <Integrity>78c1xU+493wuWMaHs9Wfj0Gf4UXyS/TBjEzlPRKvmm4=</Integrity>
+      <Fingerprint>xnh8blddij</Fingerprint>
+      <Integrity>k4VFD8ZwLcSXMMkXb0niaizAC0mF9bMOvMhJyZ46lmM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\8d4b2406-36e0-4598-b4c6-d2ac8c9ed04a.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\85801632-539b-4be3-89ba-fe860f050842.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\9372fa6e-2ca3-430b-8e19-9974972876fe.jpg'))">
       <SourceType>Package</SourceType>
@@ -342,24 +378,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\9dc4be51-3521-4cb4-8239-8133b32b9903.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\c36419eb-edf8-48ec-8510-f82254b766b9.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/AnaSayfa/Kucuk/c36419eb-edf8-48ec-8510-f82254b766b9.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8zbu8vkczg</Fingerprint>
-      <Integrity>3EO4RNG6eEHI5MJ7QfrinCxH/3n69kl4sWa8PwK4zKc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\c36419eb-edf8-48ec-8510-f82254b766b9.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\c3c23261-de22-453f-8ec5-50beb5bce061.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -377,24 +395,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\c3c23261-de22-453f-8ec5-50beb5bce061.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\c6692f2a-7af8-43f0-b698-2cddaffa762d.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/AnaSayfa/Kucuk/c6692f2a-7af8-43f0-b698-2cddaffa762d.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9yjiqsxzy4</Fingerprint>
-      <Integrity>f7AIWb03RNnU1BtGlCw4TLX6mb/R3TXiwl6dnrDY9Og=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\c6692f2a-7af8-43f0-b698-2cddaffa762d.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\AnaSayfa\Kucuk\f716e435-6e92-4eba-a296-22801177da0f.jpg'))">
       <SourceType>Package</SourceType>
@@ -4203,7 +4203,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\AutoFill\media\js\AutoFill.min.js</RelatedAsset>
+      <RelatedAsset>D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\AutoFill\media\js\AutoFill.min.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <Fingerprint>6gkc32q4so</Fingerprint>
@@ -4725,7 +4725,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\ColReorder\media\js\ColReorder.min.js</RelatedAsset>
+      <RelatedAsset>D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\ColReorder\media\js\ColReorder.min.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <Fingerprint>lmua0mmja2</Fingerprint>
@@ -5265,7 +5265,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\ColVis\media\js\ColVis.min.js</RelatedAsset>
+      <RelatedAsset>D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\ColVis\media\js\ColVis.min.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <Fingerprint>48ab49xm98</Fingerprint>
@@ -5949,7 +5949,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\FixedColumns\media\js\FixedColumns.min.js</RelatedAsset>
+      <RelatedAsset>D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\FixedColumns\media\js\FixedColumns.min.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <Fingerprint>vl5tmd8xly</Fingerprint>
@@ -6219,7 +6219,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\FixedHeader\js\FixedHeader.min.js</RelatedAsset>
+      <RelatedAsset>D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\FixedHeader\js\FixedHeader.min.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <Fingerprint>lfccxmyw5i</Fingerprint>
@@ -6435,7 +6435,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\KeyTable\js\KeyTable.min.js</RelatedAsset>
+      <RelatedAsset>D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\KeyTable\js\KeyTable.min.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <Fingerprint>q1w4pac8nx</Fingerprint>
@@ -6903,7 +6903,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\Scroller\media\js\dataTables.scroller.min.js</RelatedAsset>
+      <RelatedAsset>D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\Scroller\media\js\dataTables.scroller.min.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <Fingerprint>1a0s6yckd9</Fingerprint>
@@ -7515,7 +7515,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\gzmas\Desktop\ProjeSonhalleri\Mirvanogullari\Mirvanogullari\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\TableTools\media\js\TableTools.min.js</RelatedAsset>
+      <RelatedAsset>D:\GİTHUBPROJELER\MirvanogullariInsaat\WepApp\wwwroot\WebAdminTheme\assets\advanced-datatable\extras\TableTools\media\js\TableTools.min.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <Fingerprint>y38kewsske</Fingerprint>
@@ -30384,6 +30384,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\fonts\opensans.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\0312ecc7-3b93-451d-a290-18eadc813f10.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/0312ecc7-3b93-451d-a290-18eadc813f10.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ckw8awhwik</Fingerprint>
+      <Integrity>JM8qlz1k4pSSRYVXXIOIsBkhTc08zRLzB+KShGMQJ90=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\0312ecc7-3b93-451d-a290-18eadc813f10.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\1706e6c2-692c-4da4-bc75-e81a160ac7f7.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -30402,23 +30420,77 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\1706e6c2-692c-4da4-bc75-e81a160ac7f7.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2a49a7c5-3996-404d-81fa-ca6736efd07a.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\1870d568-d667-443b-9607-5e76bb9c9f98.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/2a49a7c5-3996-404d-81fa-ca6736efd07a.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/1870d568-d667-443b-9607-5e76bb9c9f98.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>q4ukt8t6jr</Fingerprint>
-      <Integrity>ioLERV9IpCplaedSePRwuIHaW7bj34dTMEK1kseIPWg=</Integrity>
+      <Fingerprint>25ceb1bhtl</Fingerprint>
+      <Integrity>Ckx4YeppyEXSkQdGzhX6n86J3qj3DxoS0jj+UkJgiEU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2a49a7c5-3996-404d-81fa-ca6736efd07a.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\1870d568-d667-443b-9607-5e76bb9c9f98.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\1cce894e-ecbd-40a0-97c7-4e8c98445bd5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/1cce894e-ecbd-40a0-97c7-4e8c98445bd5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9spn9jp6g6</Fingerprint>
+      <Integrity>Sce3CdcluHoEggZpDZiBDHlRVvrE8xH4O1/cofuBIFQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\1cce894e-ecbd-40a0-97c7-4e8c98445bd5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\274862a8-cb5b-44e2-8bb3-36378b3534a2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/274862a8-cb5b-44e2-8bb3-36378b3534a2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vgkmuio35h</Fingerprint>
+      <Integrity>4UgCkL2NKLfMQUjD5hHzZovEudgpMq6Fyi/820XXPSc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\274862a8-cb5b-44e2-8bb3-36378b3534a2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2a03ae2c-44ff-4309-851b-493947a0e79e.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/2a03ae2c-44ff-4309-851b-493947a0e79e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>25ceb1bhtl</Fingerprint>
+      <Integrity>Ckx4YeppyEXSkQdGzhX6n86J3qj3DxoS0jj+UkJgiEU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2a03ae2c-44ff-4309-851b-493947a0e79e.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2b999ccf-4319-4212-96f7-25fdcc8982cd.mp4'))">
       <SourceType>Package</SourceType>
@@ -30438,41 +30510,59 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2b999ccf-4319-4212-96f7-25fdcc8982cd.mp4'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2c05165b-a3da-4b88-9120-75ab6c09d590.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2bb8f940-b9f1-45f4-81e2-f025060b2c7e.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/2c05165b-a3da-4b88-9120-75ab6c09d590.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/2bb8f940-b9f1-45f4-81e2-f025060b2c7e.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eqhs0mtaxt</Fingerprint>
-      <Integrity>xrD2GHcfqZACa+i6v2QeR3d+NAyQoSuv+dD/McIaQak=</Integrity>
+      <Fingerprint>xgd4o307u5</Fingerprint>
+      <Integrity>MeHPheZmxpo9JuU2UpnJsdkg9LkRuFDIvJn5wQPjFRE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2c05165b-a3da-4b88-9120-75ab6c09d590.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2bb8f940-b9f1-45f4-81e2-f025060b2c7e.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2cc88c0f-f510-4b7c-9c25-357d2eef8491.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2c90f600-78d0-4308-b395-95c519734448.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/2cc88c0f-f510-4b7c-9c25-357d2eef8491.jpeg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/2c90f600-78d0-4308-b395-95c519734448.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mt1mep9tcx</Fingerprint>
-      <Integrity>RqsKnXpPaXS19BAiJAZnAPikbhz1NPn3sbA7EHC4qJA=</Integrity>
+      <Fingerprint>tsvm83rfc4</Fingerprint>
+      <Integrity>fa71NRxVxOQOux6r4b2fAZ1R85R64bqUrCDMPAZM7hw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2cc88c0f-f510-4b7c-9c25-357d2eef8491.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\2c90f600-78d0-4308-b395-95c519734448.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\359458c9-01e2-42c7-b4d9-86322da58bc8.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/359458c9-01e2-42c7-b4d9-86322da58bc8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>znana5xb02</Fingerprint>
+      <Integrity>QRy0owiGssT0LahMZzWSJCy3vQ3jZ42/AOcy3A58WmM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\359458c9-01e2-42c7-b4d9-86322da58bc8.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\3c4786b8-623c-4334-a7d1-4897af15ff43.jpg'))">
       <SourceType>Package</SourceType>
@@ -30492,6 +30582,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\3c4786b8-623c-4334-a7d1-4897af15ff43.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\3f00c0ab-d14e-470c-a78b-93351beb8cc9.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/3f00c0ab-d14e-470c-a78b-93351beb8cc9.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tea469f2ft</Fingerprint>
+      <Integrity>tQf+FzaS/45oLvDlNLmX2O+xOBiV/bJJvaQ0kCMcsS0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\3f00c0ab-d14e-470c-a78b-93351beb8cc9.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\46251e0d-a607-4625-b487-817836307ed5.png'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -30510,41 +30618,167 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\46251e0d-a607-4625-b487-817836307ed5.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\4ea87d56-63af-4761-94b6-1d46742919b8.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\4a37dbbd-7501-4a21-be32-41af013260d5.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/4ea87d56-63af-4761-94b6-1d46742919b8.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/4a37dbbd-7501-4a21-be32-41af013260d5.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6w88kcaduv</Fingerprint>
-      <Integrity>BgMg5IhYe1NjDrtOBJMw+aocxgQL8RCYzE1UpdcwHIA=</Integrity>
+      <Fingerprint>jxlr8f4uqs</Fingerprint>
+      <Integrity>OfS9rldyWdbRcxKy+K4Tez16Ck6SJfWSoBBUzdUsy6E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\4ea87d56-63af-4761-94b6-1d46742919b8.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\4a37dbbd-7501-4a21-be32-41af013260d5.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\67fe7181-6171-4430-a50b-81e513db72ed.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\4f02e9bf-3525-4fd1-b820-69bc3a40d535.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/67fe7181-6171-4430-a50b-81e513db72ed.jpeg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/4f02e9bf-3525-4fd1-b820-69bc3a40d535.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gsyhn4ked0</Fingerprint>
-      <Integrity>YJF2AJIybEERgJxGfVBbxezEkgz2rZwJCdffPqCcC8Y=</Integrity>
+      <Fingerprint>94wsgttlxt</Fingerprint>
+      <Integrity>mUVIqF0wnQpwfSIcCVPLuPQmM2215ilwIcb6ghRGX6Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\67fe7181-6171-4430-a50b-81e513db72ed.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\4f02e9bf-3525-4fd1-b820-69bc3a40d535.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\62d7e1fc-0c8c-48f8-8af2-22faa5f667b5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/62d7e1fc-0c8c-48f8-8af2-22faa5f667b5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>spy9a4y77y</Fingerprint>
+      <Integrity>AC7rA7dnzTrfzJZ89hbtdnn3i6H8qGUGnoULa1lYtdw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\62d7e1fc-0c8c-48f8-8af2-22faa5f667b5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\67aa2137-3fb4-4a06-93eb-68df4f910fe7.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/67aa2137-3fb4-4a06-93eb-68df4f910fe7.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>txuk3ugnuh</Fingerprint>
+      <Integrity>X0uKz83vBPruQQ+Mz8WQ3w6YJoJluqteZ/lwUOus9QE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\67aa2137-3fb4-4a06-93eb-68df4f910fe7.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\67d726a4-dcbc-4425-b8e6-007c681c498b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/67d726a4-dcbc-4425-b8e6-007c681c498b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qdv869fk4y</Fingerprint>
+      <Integrity>3so6Xy49GLwz356idKjEZhBt2g17iEMdmPx6tYNOXMo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\67d726a4-dcbc-4425-b8e6-007c681c498b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\68e07427-343f-4b6d-be5c-60b71746ea82.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/68e07427-343f-4b6d-be5c-60b71746ea82.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>v7y8nvts7q</Fingerprint>
+      <Integrity>xX3fJF7UOiCFF91Y2JmwuTjFlHs2zo0e6sYkUNWE9uE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\68e07427-343f-4b6d-be5c-60b71746ea82.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\6a63d612-623c-4461-8e38-461f64e52b67.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/6a63d612-623c-4461-8e38-461f64e52b67.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>trr0dked3a</Fingerprint>
+      <Integrity>mal57de0rlAsAbGNJLMSgbQHI+KAnjU7Rsqp/qzy2SY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\6a63d612-623c-4461-8e38-461f64e52b67.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\6a697269-a7e9-4f64-8eb8-edc7df8430ee.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/6a697269-a7e9-4f64-8eb8-edc7df8430ee.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>flmw96ag94</Fingerprint>
+      <Integrity>naSe3ayubkLtOwMmiDERph60Bj07pEJEcz5cfDcHnb8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\6a697269-a7e9-4f64-8eb8-edc7df8430ee.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\6a8b2b63-3c68-433d-b9e4-a3bbb8fcadcc.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/6a8b2b63-3c68-433d-b9e4-a3bbb8fcadcc.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>82zimc2gt4</Fingerprint>
+      <Integrity>ACgQEKvlnaZlZZNR1wIa2kiRHaqiHufpr7VQTvWRO+g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\6a8b2b63-3c68-433d-b9e4-a3bbb8fcadcc.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\701da599-9655-496a-967b-26d805828f79.jpg'))">
       <SourceType>Package</SourceType>
@@ -30564,6 +30798,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\701da599-9655-496a-967b-26d805828f79.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\70b132f1-646d-41c5-9072-17931a6f7e76.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/70b132f1-646d-41c5-9072-17931a6f7e76.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l0opecxsii</Fingerprint>
+      <Integrity>KyytVJIE5ZeZV354YorCF8++rWqJgd8qyvI2j8f1Jec=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\70b132f1-646d-41c5-9072-17931a6f7e76.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\7217bf6a-c23d-426e-8b25-d7ce0afb70e1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/7217bf6a-c23d-426e-8b25-d7ce0afb70e1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>twjcp8f7af</Fingerprint>
+      <Integrity>M4cF/ygX96jOVhrFCAvFTD2bomXm7iqVzUuUnSqHeQ4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\7217bf6a-c23d-426e-8b25-d7ce0afb70e1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\72f11034-81ad-4d38-b40f-33d7326b7f9b.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -30582,41 +30852,41 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\72f11034-81ad-4d38-b40f-33d7326b7f9b.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\7a6bf00f-8227-4051-8d6c-d2f5463b2981.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\8c0fcf58-510c-47e3-a23a-c462995d7aff.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/7a6bf00f-8227-4051-8d6c-d2f5463b2981.jpeg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/8c0fcf58-510c-47e3-a23a-c462995d7aff.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0ehxuc0b2y</Fingerprint>
-      <Integrity>SCRf5HCgqSlKDJtbqkwX+CLRFwfCZ8SmLr4nQNn0e/Q=</Integrity>
+      <Fingerprint>iw0txt7n3t</Fingerprint>
+      <Integrity>LtEw4wFDdJ6DGBo1noRCpjZRnUPqL7oqTPCIcFswz/8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\7a6bf00f-8227-4051-8d6c-d2f5463b2981.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\8c0fcf58-510c-47e3-a23a-c462995d7aff.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\7bcba9fd-c57d-464a-9eea-d508bd925493.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\980ee134-6e32-4955-be24-0372baec25e7.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/7bcba9fd-c57d-464a-9eea-d508bd925493.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/980ee134-6e32-4955-be24-0372baec25e7.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>j5jv8d6kcq</Fingerprint>
-      <Integrity>ty4p+PJTieplGauuAsc/3irTHKo4ZfPfquMbyaq4bN0=</Integrity>
+      <Fingerprint>ictkejo2cv</Fingerprint>
+      <Integrity>bjTShT4w6DDV/5cDjZ1st9UZSxzrIncMDbZnoQSmt9E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\7bcba9fd-c57d-464a-9eea-d508bd925493.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\980ee134-6e32-4955-be24-0372baec25e7.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\98da0547-90b4-4101-82e2-b42fe7d71298.jpg'))">
       <SourceType>Package</SourceType>
@@ -30636,131 +30906,77 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\98da0547-90b4-4101-82e2-b42fe7d71298.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\9920082b-54b7-429e-985c-7a47c902ca70.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\9f1fd6e8-c816-4caa-a1ef-f70fc9c3e959.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/9920082b-54b7-429e-985c-7a47c902ca70.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/9f1fd6e8-c816-4caa-a1ef-f70fc9c3e959.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2l3s8mgzhr</Fingerprint>
-      <Integrity>2h5U+7XeSqviDjyN9RC1ZYx1NUHit9L47k5HjF08P3o=</Integrity>
+      <Fingerprint>1yt4t57ou2</Fingerprint>
+      <Integrity>mVG1IYe8ULh/VxWTQ3lTGlqJloZ+R1UBu+3eHUrA/G0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\9920082b-54b7-429e-985c-7a47c902ca70.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\9f1fd6e8-c816-4caa-a1ef-f70fc9c3e959.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\9af32c57-e60e-4bb6-be31-661cad61f6d9.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a2c44bef-fe63-4875-aee1-55027216ce87.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/9af32c57-e60e-4bb6-be31-661cad61f6d9.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/a2c44bef-fe63-4875-aee1-55027216ce87.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4hb9zmxfl0</Fingerprint>
-      <Integrity>qHLCjILYln+0Vv5JJABZ+kyZPMMycRG8C8mglpkKvSU=</Integrity>
+      <Fingerprint>nykyvz1roy</Fingerprint>
+      <Integrity>YaZIMdjArFi01WZ0moJiCmPzX+gv0Wwr6ViLQjsGhDk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\9af32c57-e60e-4bb6-be31-661cad61f6d9.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a2c44bef-fe63-4875-aee1-55027216ce87.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a230591b-ee16-40ba-ba33-b1fdab6d331c.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a7b76c43-8ffb-4fae-9882-b54a97f28d85.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/a230591b-ee16-40ba-ba33-b1fdab6d331c.jpeg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/a7b76c43-8ffb-4fae-9882-b54a97f28d85.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cjzorxxip2</Fingerprint>
-      <Integrity>6Hi39BWyHAgnXrVWboRgAtrv8SH07nUUrmiFsvzITdk=</Integrity>
+      <Fingerprint>hh306xkqk7</Fingerprint>
+      <Integrity>W0TXfDFLFo6GbMgerdikuc2nn3DCn1KfTCMc1GZXNBE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a230591b-ee16-40ba-ba33-b1fdab6d331c.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a7b76c43-8ffb-4fae-9882-b54a97f28d85.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a77b7bb9-2518-4548-9c72-cf3d5c45ab96.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\ac709e46-99b3-4a9a-9014-89caecf2412b.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/a77b7bb9-2518-4548-9c72-cf3d5c45ab96.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/ac709e46-99b3-4a9a-9014-89caecf2412b.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>t8r78cj9ph</Fingerprint>
-      <Integrity>U1LyhjOCn7Wh6idICg6fJ2595AwwSyW7xVGCI/P2yr0=</Integrity>
+      <Fingerprint>fdtsgb4j13</Fingerprint>
+      <Integrity>s5/7BZY0w1oL1VGKx0k47lPil+eURRTBKI5Uah7ckVA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a77b7bb9-2518-4548-9c72-cf3d5c45ab96.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a7bd2889-d077-40c0-bc46-c381fe5d3490.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/a7bd2889-d077-40c0-bc46-c381fe5d3490.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gworq8zfw6</Fingerprint>
-      <Integrity>MN8vr3QKs3mD48OxeBf7n1M6N3LEDRox6lTh4d4dLc4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\a7bd2889-d077-40c0-bc46-c381fe5d3490.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\bc2a0b20-eb8a-4110-963e-102ae099e241.jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/bc2a0b20-eb8a-4110-963e-102ae099e241.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5i3c885zce</Fingerprint>
-      <Integrity>Qytj3HQhUeeEAWn6vMiGtw2yVIx8TnZwFCb5krNacDs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\bc2a0b20-eb8a-4110-963e-102ae099e241.jpeg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\c26cc0ad-e06b-4cfc-a683-375f99ec945b.jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/c26cc0ad-e06b-4cfc-a683-375f99ec945b.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kddc5mm9mb</Fingerprint>
-      <Integrity>uKugc96Kz0t0zu78QQ5+bMOGkb4oAU6l2113iESLK1Q=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\c26cc0ad-e06b-4cfc-a683-375f99ec945b.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\ac709e46-99b3-4a9a-9014-89caecf2412b.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\c4938fc3-8784-403b-bb89-b4fbbefabfcb.jpg'))">
       <SourceType>Package</SourceType>
@@ -30780,23 +30996,59 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\c4938fc3-8784-403b-bb89-b4fbbefabfcb.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\dc005cea-b40d-4bc4-8eda-268b33c5ccc1.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\c4a1c8e6-e059-423d-9dae-3a2a05860e3e.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Buyuk/dc005cea-b40d-4bc4-8eda-268b33c5ccc1.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/c4a1c8e6-e059-423d-9dae-3a2a05860e3e.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cvzay0znzc</Fingerprint>
-      <Integrity>GCYZbV6Lo0JNG1/m2MeIx8z41wJbYg87fD7sZlXNL+k=</Integrity>
+      <Fingerprint>rwck46xwbu</Fingerprint>
+      <Integrity>W+qg2Q2blPo0ZT3BGk6RdtmW3Q7GaFhtv6nHi+5Marc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\dc005cea-b40d-4bc4-8eda-268b33c5ccc1.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\c4a1c8e6-e059-423d-9dae-3a2a05860e3e.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\da94cc3b-b4b2-4927-8eda-5682c66d4f2b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/da94cc3b-b4b2-4927-8eda-5682c66d4f2b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gvjr0f3utv</Fingerprint>
+      <Integrity>XOkE3L8lP0ZyNHD4mBn5MTApc4HhvQl1mVK1nWraf4g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\da94cc3b-b4b2-4927-8eda-5682c66d4f2b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\def6aff7-e53c-4541-8b27-7cbc6f59f124.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Buyuk/def6aff7-e53c-4541-8b27-7cbc6f59f124.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kguf28vrba</Fingerprint>
+      <Integrity>9FnKSlE/bA0Z0XHKogbIiLli39M4uqosnmVD/iHay/s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\def6aff7-e53c-4541-8b27-7cbc6f59f124.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\e3c861bc-dc6d-465a-ab8e-2da81a20065c.jpg'))">
       <SourceType>Package</SourceType>
@@ -30852,6 +31104,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Buyuk\f3728a04-67b3-4574-8cf6-132a09602a8b.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\0312ecc7-3b93-451d-a290-18eadc813f10.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/0312ecc7-3b93-451d-a290-18eadc813f10.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>27m39dk7pp</Fingerprint>
+      <Integrity>4m++uGVnXcWBMNaP0o1HDQmoZqiMhIw0iok7M9L3xB8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\0312ecc7-3b93-451d-a290-18eadc813f10.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\1706e6c2-692c-4da4-bc75-e81a160ac7f7.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -30870,59 +31140,131 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\1706e6c2-692c-4da4-bc75-e81a160ac7f7.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2a49a7c5-3996-404d-81fa-ca6736efd07a.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\1870d568-d667-443b-9607-5e76bb9c9f98.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/2a49a7c5-3996-404d-81fa-ca6736efd07a.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/1870d568-d667-443b-9607-5e76bb9c9f98.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9wnvubzwkp</Fingerprint>
-      <Integrity>uaS7it0r19w0+dy/zDD9//qx7vcHqDKbDNXwAA1AFQ4=</Integrity>
+      <Fingerprint>dhhl3emiac</Fingerprint>
+      <Integrity>P/k4FzN36lGxcSmGBeXL1x855fe1hhvkbYiC/vFGAe0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2a49a7c5-3996-404d-81fa-ca6736efd07a.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\1870d568-d667-443b-9607-5e76bb9c9f98.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2c05165b-a3da-4b88-9120-75ab6c09d590.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\1cce894e-ecbd-40a0-97c7-4e8c98445bd5.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/2c05165b-a3da-4b88-9120-75ab6c09d590.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/1cce894e-ecbd-40a0-97c7-4e8c98445bd5.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ulqpmwzsgc</Fingerprint>
-      <Integrity>8ti4lMGXI/RCAVckziifF4hbN9fHVOdbfMHZ0c+yWHg=</Integrity>
+      <Fingerprint>wm0e7lrbx9</Fingerprint>
+      <Integrity>SLo6lE95tVCFt8V1GN7MSlPJ36KfQThzTS/6WkL4S0o=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2c05165b-a3da-4b88-9120-75ab6c09d590.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\1cce894e-ecbd-40a0-97c7-4e8c98445bd5.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2cc88c0f-f510-4b7c-9c25-357d2eef8491.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\274862a8-cb5b-44e2-8bb3-36378b3534a2.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/2cc88c0f-f510-4b7c-9c25-357d2eef8491.jpeg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/274862a8-cb5b-44e2-8bb3-36378b3534a2.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jpvihsjo0p</Fingerprint>
-      <Integrity>B0JzzVW552QACo8gb8gAavGVoEJ87EtzgjDx4M/m9c0=</Integrity>
+      <Fingerprint>o0yjbhpi36</Fingerprint>
+      <Integrity>CO7e8nYjNADrBQnPWOcHL2QpKjs8MQEIMFPw4dy3UmI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2cc88c0f-f510-4b7c-9c25-357d2eef8491.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\274862a8-cb5b-44e2-8bb3-36378b3534a2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2a03ae2c-44ff-4309-851b-493947a0e79e.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/2a03ae2c-44ff-4309-851b-493947a0e79e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dhhl3emiac</Fingerprint>
+      <Integrity>P/k4FzN36lGxcSmGBeXL1x855fe1hhvkbYiC/vFGAe0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2a03ae2c-44ff-4309-851b-493947a0e79e.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2bb8f940-b9f1-45f4-81e2-f025060b2c7e.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/2bb8f940-b9f1-45f4-81e2-f025060b2c7e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wzu7oa06hm</Fingerprint>
+      <Integrity>rJj1TmQlaD4MYEIiu5VVuIwW7fgkwGWabKwm4cDSCvc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2bb8f940-b9f1-45f4-81e2-f025060b2c7e.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2c90f600-78d0-4308-b395-95c519734448.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/2c90f600-78d0-4308-b395-95c519734448.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9scwnpewza</Fingerprint>
+      <Integrity>uWP069AlzBdYt58ooZ6gwglAp8sGKYRu0/g2uImDB3E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\2c90f600-78d0-4308-b395-95c519734448.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\359458c9-01e2-42c7-b4d9-86322da58bc8.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/359458c9-01e2-42c7-b4d9-86322da58bc8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vh6l8ik82l</Fingerprint>
+      <Integrity>I+TgupkzY0IVfE6Qt4INuUX/nDWcAUcehnaXRIdus0g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\359458c9-01e2-42c7-b4d9-86322da58bc8.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\3c4786b8-623c-4334-a7d1-4897af15ff43.jpg'))">
       <SourceType>Package</SourceType>
@@ -30942,6 +31284,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\3c4786b8-623c-4334-a7d1-4897af15ff43.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\3f00c0ab-d14e-470c-a78b-93351beb8cc9.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/3f00c0ab-d14e-470c-a78b-93351beb8cc9.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zkcf8t7059</Fingerprint>
+      <Integrity>jQaBgkRcjF+JcEs8/HGLIeZ1ygrj3WcGajK1QgXhal0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\3f00c0ab-d14e-470c-a78b-93351beb8cc9.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\46251e0d-a607-4625-b487-817836307ed5.png'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -30960,41 +31320,167 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\46251e0d-a607-4625-b487-817836307ed5.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\4ea87d56-63af-4761-94b6-1d46742919b8.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\4a37dbbd-7501-4a21-be32-41af013260d5.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/4ea87d56-63af-4761-94b6-1d46742919b8.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/4a37dbbd-7501-4a21-be32-41af013260d5.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0xhjxynxdt</Fingerprint>
-      <Integrity>dBpHoGW/p2UGXkmiOwburhBJs2w2AQuOcL3dAx3qukA=</Integrity>
+      <Fingerprint>70mdhynqxy</Fingerprint>
+      <Integrity>pxmdeM2HKREHCIxTHlE/Mwx2R/7ywybsWGMqnGJIgMA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\4ea87d56-63af-4761-94b6-1d46742919b8.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\4a37dbbd-7501-4a21-be32-41af013260d5.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\67fe7181-6171-4430-a50b-81e513db72ed.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\4f02e9bf-3525-4fd1-b820-69bc3a40d535.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/67fe7181-6171-4430-a50b-81e513db72ed.jpeg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/4f02e9bf-3525-4fd1-b820-69bc3a40d535.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>94506r8i5y</Fingerprint>
-      <Integrity>6SuPvxQU16Y9kzllZBESS59TNrbQ5sVj+B1U0UlAQbA=</Integrity>
+      <Fingerprint>air5pi0kgj</Fingerprint>
+      <Integrity>gluNndrd3m9U/0CYgTGK9EjG+ml4o+miLria48JokY0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\67fe7181-6171-4430-a50b-81e513db72ed.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\4f02e9bf-3525-4fd1-b820-69bc3a40d535.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\62d7e1fc-0c8c-48f8-8af2-22faa5f667b5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/62d7e1fc-0c8c-48f8-8af2-22faa5f667b5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kjkyakx34u</Fingerprint>
+      <Integrity>gHmKcvdtyHqDKai17ErI/qeF0JQ1Z7OBVE5fi0Lbg/w=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\62d7e1fc-0c8c-48f8-8af2-22faa5f667b5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\67aa2137-3fb4-4a06-93eb-68df4f910fe7.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/67aa2137-3fb4-4a06-93eb-68df4f910fe7.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>okix7tqnuh</Fingerprint>
+      <Integrity>uMiucHIHf+7klQfyAdHTme8LVg8R6krWRN1W+afXgac=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\67aa2137-3fb4-4a06-93eb-68df4f910fe7.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\67d726a4-dcbc-4425-b8e6-007c681c498b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/67d726a4-dcbc-4425-b8e6-007c681c498b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vcxkelzt70</Fingerprint>
+      <Integrity>IWiHgMNLHhitDKrvO7AEsQ0+8OctDSf+5oC1hLcuqjg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\67d726a4-dcbc-4425-b8e6-007c681c498b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\68e07427-343f-4b6d-be5c-60b71746ea82.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/68e07427-343f-4b6d-be5c-60b71746ea82.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tk8kuqq78z</Fingerprint>
+      <Integrity>k7FcVm13kdbatwdf2qdVDGSnt5TIkVRZG7UzlW5X9jk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\68e07427-343f-4b6d-be5c-60b71746ea82.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\6a63d612-623c-4461-8e38-461f64e52b67.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/6a63d612-623c-4461-8e38-461f64e52b67.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4wkqp9n4tr</Fingerprint>
+      <Integrity>vCYQ1TWmZImL28jSiHxiOzm/VDHrQYKxw36IngKVfUg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\6a63d612-623c-4461-8e38-461f64e52b67.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\6a697269-a7e9-4f64-8eb8-edc7df8430ee.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/6a697269-a7e9-4f64-8eb8-edc7df8430ee.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ve367f06e6</Fingerprint>
+      <Integrity>x9lSncsGtCoEmXBHEVPvk3l98wzJqzv1W5HUiCAEcDk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\6a697269-a7e9-4f64-8eb8-edc7df8430ee.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\6a8b2b63-3c68-433d-b9e4-a3bbb8fcadcc.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/6a8b2b63-3c68-433d-b9e4-a3bbb8fcadcc.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rszvjuy97g</Fingerprint>
+      <Integrity>+1HU42v4q08Q17z6zH7imML2tNJKBi8yB/XOl1FXPc0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\6a8b2b63-3c68-433d-b9e4-a3bbb8fcadcc.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\701da599-9655-496a-967b-26d805828f79.jpg'))">
       <SourceType>Package</SourceType>
@@ -31014,6 +31500,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\701da599-9655-496a-967b-26d805828f79.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\70b132f1-646d-41c5-9072-17931a6f7e76.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/70b132f1-646d-41c5-9072-17931a6f7e76.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>um9mn7lfc1</Fingerprint>
+      <Integrity>uiJmzkjUOejNNosi0Z5RVKutgg2k63+uC2OiiJgB06U=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\70b132f1-646d-41c5-9072-17931a6f7e76.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\7217bf6a-c23d-426e-8b25-d7ce0afb70e1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/7217bf6a-c23d-426e-8b25-d7ce0afb70e1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>50sybl69xo</Fingerprint>
+      <Integrity>uz4yQEvG7w6me6w50IL7S1jmyrYKlrQxGncSWXARFJ8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\7217bf6a-c23d-426e-8b25-d7ce0afb70e1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\72f11034-81ad-4d38-b40f-33d7326b7f9b.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
@@ -31032,41 +31554,41 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\72f11034-81ad-4d38-b40f-33d7326b7f9b.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\7a6bf00f-8227-4051-8d6c-d2f5463b2981.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\8c0fcf58-510c-47e3-a23a-c462995d7aff.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/7a6bf00f-8227-4051-8d6c-d2f5463b2981.jpeg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/8c0fcf58-510c-47e3-a23a-c462995d7aff.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qm4a08ck8n</Fingerprint>
-      <Integrity>Dup97OI26Gv6KYM46eBByIe9wjhSNuVTqC5qMv8m8D0=</Integrity>
+      <Fingerprint>o8ak7ntqqq</Fingerprint>
+      <Integrity>2OMfzGgofBp4N21hwIm2XFlYZeCZ4CqUXBJOjoBXv/E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\7a6bf00f-8227-4051-8d6c-d2f5463b2981.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\8c0fcf58-510c-47e3-a23a-c462995d7aff.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\7bcba9fd-c57d-464a-9eea-d508bd925493.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\980ee134-6e32-4955-be24-0372baec25e7.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/7bcba9fd-c57d-464a-9eea-d508bd925493.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/980ee134-6e32-4955-be24-0372baec25e7.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0tzb7addvs</Fingerprint>
-      <Integrity>/JatbCcXAbmcQcew8/1qZjXUN3VzS3FWAJ2rzgDbw2U=</Integrity>
+      <Fingerprint>6fkpedi7cv</Fingerprint>
+      <Integrity>XsrxoMNCPb7HM4QclIL6kmcWMIzDnFJdLQ12AIUUwHQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\7bcba9fd-c57d-464a-9eea-d508bd925493.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\980ee134-6e32-4955-be24-0372baec25e7.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\98da0547-90b4-4101-82e2-b42fe7d71298.jpg'))">
       <SourceType>Package</SourceType>
@@ -31086,131 +31608,77 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\98da0547-90b4-4101-82e2-b42fe7d71298.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\9920082b-54b7-429e-985c-7a47c902ca70.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\9f1fd6e8-c816-4caa-a1ef-f70fc9c3e959.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/9920082b-54b7-429e-985c-7a47c902ca70.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/9f1fd6e8-c816-4caa-a1ef-f70fc9c3e959.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a4t85f879f</Fingerprint>
-      <Integrity>lrno9pf4w6CAFUF3cNLG8+tTO7YWLf59FuwwQx9PhNU=</Integrity>
+      <Fingerprint>6apapvb3dg</Fingerprint>
+      <Integrity>fqPf1diPGJ18ul1jeSJp4vvSPxo85T/YryIEymSW+F0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\9920082b-54b7-429e-985c-7a47c902ca70.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\9f1fd6e8-c816-4caa-a1ef-f70fc9c3e959.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\9af32c57-e60e-4bb6-be31-661cad61f6d9.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a2c44bef-fe63-4875-aee1-55027216ce87.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/9af32c57-e60e-4bb6-be31-661cad61f6d9.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/a2c44bef-fe63-4875-aee1-55027216ce87.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1qgqifk60b</Fingerprint>
-      <Integrity>13pBWulUZE+zy/rOVq2TSON3eGzqEgPy1QgbGFa1qbE=</Integrity>
+      <Fingerprint>1z5n3vgfvw</Fingerprint>
+      <Integrity>AwODBpx/BFmEXzcgVsPrJQBsoJNs+ezAfln1Kjkqbck=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\9af32c57-e60e-4bb6-be31-661cad61f6d9.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a2c44bef-fe63-4875-aee1-55027216ce87.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a230591b-ee16-40ba-ba33-b1fdab6d331c.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a7b76c43-8ffb-4fae-9882-b54a97f28d85.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/a230591b-ee16-40ba-ba33-b1fdab6d331c.jpeg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/a7b76c43-8ffb-4fae-9882-b54a97f28d85.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>45lh7lapbz</Fingerprint>
-      <Integrity>SEAhGBOVzzVJ/hJiyv8bsR28jnMS60XaF0O852b64oE=</Integrity>
+      <Fingerprint>kxk2x6dj7e</Fingerprint>
+      <Integrity>iABPaHBlTu7zw+Q7BKxk8d36HTZb9nmAff02gYWrjUE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a230591b-ee16-40ba-ba33-b1fdab6d331c.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a7b76c43-8ffb-4fae-9882-b54a97f28d85.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a77b7bb9-2518-4548-9c72-cf3d5c45ab96.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\ac709e46-99b3-4a9a-9014-89caecf2412b.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/a77b7bb9-2518-4548-9c72-cf3d5c45ab96.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/ac709e46-99b3-4a9a-9014-89caecf2412b.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zc9v6z2nhk</Fingerprint>
-      <Integrity>3azk6wwxhmyOq9WV5aKFNUN8GCB6k/0rzKQserar0tQ=</Integrity>
+      <Fingerprint>z2x3gl7795</Fingerprint>
+      <Integrity>O35Gp2dzfcIknyfgnKGNi3/vz0bLoinC9H+p++G7A20=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a77b7bb9-2518-4548-9c72-cf3d5c45ab96.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a7bd2889-d077-40c0-bc46-c381fe5d3490.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/a7bd2889-d077-40c0-bc46-c381fe5d3490.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pydgn5ntkw</Fingerprint>
-      <Integrity>T/qlpcjBTB/+o1H9WBs/gam/5SvSaHyaRNffEUXHOgw=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\a7bd2889-d077-40c0-bc46-c381fe5d3490.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\bc2a0b20-eb8a-4110-963e-102ae099e241.jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/bc2a0b20-eb8a-4110-963e-102ae099e241.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5oc8uof5ad</Fingerprint>
-      <Integrity>259Sr306/iz4AbEF3dPhj8rE9GtdD+KBO5IRBzpan2Y=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\bc2a0b20-eb8a-4110-963e-102ae099e241.jpeg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\c26cc0ad-e06b-4cfc-a683-375f99ec945b.jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WepApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/c26cc0ad-e06b-4cfc-a683-375f99ec945b.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8vf5jxxst8</Fingerprint>
-      <Integrity>lAYXghSSOXNBzjYyD7T+pSztVk7nWWGkN+S9jAOrwSQ=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\c26cc0ad-e06b-4cfc-a683-375f99ec945b.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\ac709e46-99b3-4a9a-9014-89caecf2412b.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\c4938fc3-8784-403b-bb89-b4fbbefabfcb.jpg'))">
       <SourceType>Package</SourceType>
@@ -31230,23 +31698,59 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\c4938fc3-8784-403b-bb89-b4fbbefabfcb.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\dc005cea-b40d-4bc4-8eda-268b33c5ccc1.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\c4a1c8e6-e059-423d-9dae-3a2a05860e3e.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Galeri/Kucuk/dc005cea-b40d-4bc4-8eda-268b33c5ccc1.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/c4a1c8e6-e059-423d-9dae-3a2a05860e3e.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1j71cp3xni</Fingerprint>
-      <Integrity>XdxwyZqQusJr2h3v1TNRFQo8s4saS6zTMAu18aEedlg=</Integrity>
+      <Fingerprint>80mn08jxr4</Fingerprint>
+      <Integrity>2KBq/NzCT6fGlT3KCN2q7Ct0VmNkOj22Tc9jHuXh2LM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\dc005cea-b40d-4bc4-8eda-268b33c5ccc1.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\c4a1c8e6-e059-423d-9dae-3a2a05860e3e.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\da94cc3b-b4b2-4927-8eda-5682c66d4f2b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/da94cc3b-b4b2-4927-8eda-5682c66d4f2b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>72k64z5qa5</Fingerprint>
+      <Integrity>D2trBsa+UZ5XwF/M06hyjl+SjRwlABVvd3l8Brjg1KQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\da94cc3b-b4b2-4927-8eda-5682c66d4f2b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\def6aff7-e53c-4541-8b27-7cbc6f59f124.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WepApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WepApp</BasePath>
+      <RelativePath>WebAdminTheme/Galeri/Kucuk/def6aff7-e53c-4541-8b27-7cbc6f59f124.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4bi4ioxhrx</Fingerprint>
+      <Integrity>sDcCkeGTvh8d9mmGaNDfIHbRLMyYG4fHSeT2HxtxgGQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\def6aff7-e53c-4541-8b27-7cbc6f59f124.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Galeri\Kucuk\e3c861bc-dc6d-465a-ab8e-2da81a20065c.jpg'))">
       <SourceType>Package</SourceType>
@@ -31320,23 +31824,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Buyuk\140d618d-d63b-45c2-b8d8-d43caad8365f.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Buyuk\6d91a941-dbab-44db-87f7-bb3c84f22e0a.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Buyuk\9b6ab597-0da2-4566-8439-f1465bc4ee14.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Hakkimizda/Buyuk/6d91a941-dbab-44db-87f7-bb3c84f22e0a.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Hakkimizda/Buyuk/9b6ab597-0da2-4566-8439-f1465bc4ee14.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uvo5j3ipd5</Fingerprint>
-      <Integrity>Okx/tZguZwMftyHlHeMJVmNTWtaa6vs8omOKhZImjmQ=</Integrity>
+      <Fingerprint>tea469f2ft</Fingerprint>
+      <Integrity>tQf+FzaS/45oLvDlNLmX2O+xOBiV/bJJvaQ0kCMcsS0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Buyuk\6d91a941-dbab-44db-87f7-bb3c84f22e0a.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Buyuk\9b6ab597-0da2-4566-8439-f1465bc4ee14.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Buyuk\be55e4ce-2ac5-4694-a42f-bb2c808f6509.png'))">
       <SourceType>Package</SourceType>
@@ -31374,23 +31878,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Kucuk\140d618d-d63b-45c2-b8d8-d43caad8365f.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Kucuk\6d91a941-dbab-44db-87f7-bb3c84f22e0a.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Kucuk\9b6ab597-0da2-4566-8439-f1465bc4ee14.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WepApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WepApp</BasePath>
-      <RelativePath>WebAdminTheme/Hakkimizda/Kucuk/6d91a941-dbab-44db-87f7-bb3c84f22e0a.jpg</RelativePath>
+      <RelativePath>WebAdminTheme/Hakkimizda/Kucuk/9b6ab597-0da2-4566-8439-f1465bc4ee14.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>w676unoing</Fingerprint>
-      <Integrity>GPwE2gX+O3biziEbo2dmAjabhv03jZK66m+XetxFx58=</Integrity>
+      <Fingerprint>zkcf8t7059</Fingerprint>
+      <Integrity>jQaBgkRcjF+JcEs8/HGLIeZ1ygrj3WcGajK1QgXhal0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Kucuk\6d91a941-dbab-44db-87f7-bb3c84f22e0a.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Kucuk\9b6ab597-0da2-4566-8439-f1465bc4ee14.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAdminTheme\Hakkimizda\Kucuk\be55e4ce-2ac5-4694-a42f-bb2c808f6509.png'))">
       <SourceType>Package</SourceType>
